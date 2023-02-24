@@ -1,14 +1,14 @@
-Sulabh Katila
+#Sulabh Katila
 
-Contact Information
+#Contact Information
 Email: sulabhkatila@gmail.com  |  www.linkedin/in/sulabhkatila
 
 
-About Me
+#About Me
 I am a freshman studying Mathematics and Computer Science at St. Joseph's University. I am passionate about learning and have been working on improving my skills in AI and Machine Learning, Data Structures and Algorithms.
   
   
-Skills
+#Skills
 Java
 Calculus
 Discrete Mathematics
