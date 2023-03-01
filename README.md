@@ -1,7 +1,7 @@
-Welcome to my Github Profile
-👋 Hi, I’m Sulabh Katila.
-📖 I am currently majoring in Mathematics and Computer Science at St. Joseph's University.
-📫 You can reach me at sulabhkatila@gmail.com
+# Welcome to my Github Profile
+#### 👋 Hi, I’m Sulabh Katila.
+#### 📖 I am currently a Freshman majoring in Mathematics and Computer Science at St. Joseph's University.
+#### 📫 You can reach me at sulabhkatila@gmail.com
   
 
 <!---
