@@ -2,7 +2,6 @@
 #### 👋 Hi, I’m Sulabh Katila.
 #### 📖 I am currently a Freshman majoring in Mathematics and Computer Science at St. Joseph's University.
 #### 📫 You can reach me at sulabhkatila@gmail.com
-#### [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=sulabhkatila=dev.to)](https://github.com/sulabhkatila/dev.to)
 #### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulabhkatila)](https://github.com/sulabhkatila/github-readme-stats)
   
 
