@@ -1,6 +1,6 @@
 # Welcome to my Github Profile
 #### 👋 Hi, I’m Sulabh Katila.
-#### 📖 I am currently a Freshman majoring in Mathematics and Computer Science at St. Joseph's University.
+#### 📖 I am a Mathematics and Computer Science major at St. Joseph's University.
 #### 📫 You can reach me at sulabhkatila@gmail.com
 #### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulabhkatila)](https://github.com/sulabhkatila/github-readme-stats)
   
