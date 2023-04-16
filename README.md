@@ -4,7 +4,7 @@ Hello👋
 - I’m looking to collaborate on any scale of projects in the field of Machine Learning.
 - Email- sulabhkatila@gmail.com
 
-  ![Profile views](https://gpvc.arturio.dev/sulabhkatila)  <img src="https://img.shields.io/github/followers/sulabhkatila?label=Followers" style=" float:left, margin-right:10px" />
+  <!--![Profile views](https://gpvc.arturio.dev/sulabhkatila)  <img src="https://img.shields.io/github/followers/sulabhkatila?label=Followers" style=" float:left, margin-right:10px" /> -->
 
 ---
 
@@ -14,15 +14,12 @@ Hello👋
 
 
 ---
-<br>
-
 <a href="https://github.com/sulabhkatila/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sulabhkatila&show_icons=true&theme=radical&hide=issues&custom_title=My%20Github%20Stats&title_color=03fcc6" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulabhkatila&layout=compact&theme=radical&hide=jupyter%20notebook,html,css&langs_count=8&title_color=03fcc6" />
 </a>
-<br>
 
 ---
 
