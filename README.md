@@ -14,12 +14,14 @@ Hello👋
 
 
 ---
-<a href="https://github.com/sulabhkatila/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sulabhkatila&show_icons=true&theme=radical&hide=issues&custom_title=My%20Github%20Stats&title_color=03fcc6" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulabhkatila&layout=compact&theme=radical&hide=jupyter%20notebook,html,css&langs_count=8&title_color=03fcc6" />
-</a>
+### GitHub Activity Graph:
+[![Sulabh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sulabhkatila&theme=github-compact)](https://github.com/sulabhkatila/github-readme-activity-graph)
+
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![Sulabh's github stats](https://github-readme-stats.vercel.app/api?username=sulabhkatila&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sulabhkatila&theme=radical&layout=compact) |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sulabhkatila"></img>
 
 ---
 
