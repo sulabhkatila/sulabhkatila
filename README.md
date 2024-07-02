@@ -1,8 +1,7 @@
 # Sulabh Katila
 Hello👋
 - I am a Mathematics and Computer Science major at St. Joseph's University. 
-- I’m looking to collaborate on any scale of projects in the field of Machine Learning.
-- Email- sulabhkatila@gmail.com
+- Email: katilasulabh@gmail.com
 
   <!--![Profile views](https://gpvc.arturio.dev/sulabhkatila)  <img src="https://img.shields.io/github/followers/sulabhkatila?label=Followers" style=" float:left, margin-right:10px" /> -->
 
