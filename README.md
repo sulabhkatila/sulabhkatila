@@ -1,6 +1,5 @@
 # Sulabh Katila
 Hello👋
-- I am a Mathematics and Computer Science major at St. Joseph's University. 
 - Email: katilasulabh@gmail.com
 
   <!--![Profile views](https://gpvc.arturio.dev/sulabhkatila)  <img src="https://img.shields.io/github/followers/sulabhkatila?label=Followers" style=" float:left, margin-right:10px" /> -->
